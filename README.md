@@ -1,2 +1,2 @@
 # mass-update-posts
-Mass updated your plugin
+Mass updated your posts
